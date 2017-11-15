@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+ <html>
+  <head>
+    <title>Luke's Test Page</title>
+  </head>
+  <body>
+   <div id="testing">
+    <h1>Testing, testing...</h1>
+    <p>Hello, uh... hello? Can you folks hear me out there?</p>
+   </div>
+   <div>
+    <h2>Ok time to try a couple things</h2>
+    <ol>
+      <li>First an ordered list</li>
+      <li>Second a link to an external <a href="https://www.reddit.com/">website</a></li>
+      <li>Third a link to a <a href="*testing">section</a> in this site</li>
+     </ol>
+   </div>
+   <div>
+    <h3>And finally a picture...</h3>
+    <img src="#" alt="An image will go here once I am able to figure out how Google Cloud Storage works" />
+   </div>
+  </body>
+</html>
